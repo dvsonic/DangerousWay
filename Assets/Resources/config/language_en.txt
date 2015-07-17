@@ -1,0 +1,5 @@
+score	Score
+bestscore	HighScore
+record	Record
+guide	Click on the left side of the screen to jump<br>Click on the right side of the screen to hit
+donate	Click ads you won't hurt anything, but can support us to develop the next game<br>Thank you vey much!

@@ -1,0 +1,5 @@
+score	当前积分
+bestscore	最高积分
+record	新记录
+guide	点击左边屏幕跳跃<br>点击右边屏幕攻击
+donate	点击广告您不会有任何损失但却能支持我们持续开发<br>非常感谢您的支持！
